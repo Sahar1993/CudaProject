@@ -385,6 +385,7 @@ body{
     text-align: center;
     font-size: 18px;
 }
+
 .firstClient{
     margin-left: 20px;
     float: left;
@@ -400,19 +401,24 @@ h4{
     color:#ffffff;
     font-weight: bold;
 }
+.comment{
+    text-align: center;
+}
 
 .comment p {
     font-weight: normal;
     text-align: left;
-}
-.para{
     font-style: italic;
-    color: #ffffff;
+     color: #ffffff;
 }
 .comment p.para1{
     color:#ffdd99;
-    margin-left: 100px;
-    font-size: 15px;
+    font-size: 15px;   
+    margin-left: 90px;
+
+}
+.comment h4{
+    margin-right: 180px;
 }
 
 .secondClient{
