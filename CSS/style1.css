@@ -34,10 +34,9 @@ body{
 .links ul li{
     list-style-type: none;
     display: inline-block;
-     margin-left: 37px;
-    font-family: myriad-pro, sans-serif;
-    font-style: normal;
-    font-weight: 400;
+    margin-left: 37px;
+    font-weight: normal;
+    font-size: 16px;
 }
 .links ul li:hover{
     text-decoration: underline;
@@ -69,6 +68,7 @@ body{
     box-sizing: border-box;
     margin-top: 65px;
     margin-bottom: 145px;
+    text-align: center;
 }
 .butWork a{
     text-decoration: none;
@@ -76,7 +76,7 @@ body{
     font-weight: 600px;
 }
 .Second{
-    width: 98.8%;
+    width: 99%;
     height: auto;
     background: #17c2a4;
     position: absolute;
@@ -86,7 +86,7 @@ body{
     height: auto;
     background: #17c2a4;
     margin: 0 auto;
-    margin: 116px 150px;
+    margin: 126px 150px;
 }
 
 .serviceHead{
@@ -95,11 +95,12 @@ body{
 }
 .serviceHead h2{
     font-weight: bold;
-    font-size: 22px;
+    font-size: 40px;
     margin-right: 100px;
 }
 .serviceHead p{
     font-weight: normal;
+    font-size: 18px;
     margin-right: 90px;
 
 }
@@ -120,10 +121,12 @@ body{
 .flag a{
     text-decoration: none;
     font-weight: bold;
+    font-size: 24px;
     color:#ffffff;
 }
 .flag p{
     font-weight: lighter;
+    font-size: 16px;
     color:#ffffff;   
 }
 .design{
@@ -143,10 +146,12 @@ body{
 .design a{
     text-decoration: none;
     font-weight: bold;
+    font-size: 24px;
     color:#ffffff;
 }
 .design p{
     font-weight: lighter;
+    font-size: 16px;
     color:#ffffff;   
 }
 .development{
@@ -166,10 +171,12 @@ body{
 .development a{
     text-decoration: none;
     font-weight: bold;
+    font-size: 24px;
     color:#ffffff;
 }
 .development p{
     font-weight: lighter;
+    font-size: 16px;
     color:#ffffff;   
 }
 .rocket{
@@ -189,18 +196,20 @@ body{
 .rocket a{
     text-decoration: none;
     font-weight: bold;
+    font-size: 24px;
     color:#ffffff;
 }
 .rocket p{
     font-weight: lighter;
+    font-size: 16px;
     color:#ffffff;   
 }
 .third{
-    width: 98.8%;
+    width: 99%;
     height: auto;
     background: #e7f1f8;
     position: absolute;
-    margin-top: 580px;
+    margin-top: 650px;
 }
 .container3{
     width:1140px;
@@ -216,12 +225,13 @@ body{
 }
 .team h2{
     font-weight: bold;
-    font-size: 22pt;
+    font-size: 42px;
     margin-right: 100px;
 }
 .team p{
     font-weight: normal;
     margin-right: 90px;
+    font-size: 18px;
 }
 .anne{
     width: 260px;
@@ -238,18 +248,19 @@ body{
 .teamName{
     color: #27283d;
     font-weight: bold;
+    font-size:24px;
 }
 .teamWork{
     color: #30bae7;
     font-weight: normal;
-    font-size: 13px;
+    font-size: 16px;
 }
 .details{
     color: #3c4761;
     font-weight: lighter;
     padding-left: 50px;
     padding-right: 50px;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .kate{
@@ -279,10 +290,10 @@ body{
 }
 
 .fourth{
-   width: 98.8%;
+   width: 99%;
     height: auto;
     background: #ffdd99;
-    margin-top: 1350px;
+    margin-top: 1526px;
     position: absolute;
 }
 
@@ -300,11 +311,12 @@ body{
 }
 .portoHead h2{
     font-weight: bold;
-    font-size: 22pt;
+    font-size: 42px;
     margin-right: 100px;
 }
 .portoHead p{
     font-weight: normal;
+    font-size: 18px;
     margin-right: 90px;
 }
 
@@ -351,10 +363,10 @@ body{
 }
 
 .fifth{
-   width: 98.8%;
+   width: 99%;
     height: auto;
     background: #d74680;
-    margin-top: 2730px;
+    margin-top: 2945px;
     position: absolute;
 }
 
@@ -365,9 +377,13 @@ body{
     margin: 0 auto;
     margin: 116px 150px;
 }
+.container5 h2{
+    font-size: 40px;
+}
 .container5 p{
     color:#ffffff;
     text-align: center;
+    font-size: 18px;
 }
 .firstClient{
     margin-left: 20px;
@@ -415,10 +431,10 @@ h4{
     margin-top: 70px;
 }
  .last{
-   width: 98.8%;
+    width: 99%;;
     height: auto;
     background: #3c5499;
-    margin-top: 3508px;
+    margin-top: 3730px;
     position: absolute;    
 }
 .container6{
@@ -435,12 +451,13 @@ h4{
 }
 .lastHead h2{
     font-weight: bold;
-    font-size: 22pt;
+    font-size: 40px;
     margin-right: 100px;
 }
 .lastHead p{
     font-weight: normal;
     margin-right: 90px;
+    font-size: 18px;
 }
 .lastForm{
     text-align: center;
